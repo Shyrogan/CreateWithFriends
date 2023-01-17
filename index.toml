@@ -11,6 +11,11 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
@@ -28,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
+metafile = true
+
+[[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
+hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
 
 [[files]]
@@ -81,6 +96,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -111,8 +131,23 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "3c65e87193d79b218c0636cdfeca699ad6edcdbea035abfc7ce59005f1b4fb42"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
@@ -123,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
