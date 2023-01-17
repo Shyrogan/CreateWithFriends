@@ -1,0 +1,13 @@
+name = "CreateWithFriends"
+author = "Shyrogan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9f1a5139fcd132fd07805d774775f612bcba87441842193b607c4a516525e645"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.43"
